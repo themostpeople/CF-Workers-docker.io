@@ -1,6 +1,0 @@
-name = "cf-workers-docker-io"
-main = "_worker.js"
-compatibility_date = "2024-04-05"
-
-# 如果项目需要特定的兼容性标志，可以添加在下面
-# compatibility_flags = []
